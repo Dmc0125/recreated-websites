@@ -1,29 +1,3 @@
-# coinbase
+# Coinbase clone
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### This is not a real Coinbase website, just a clone for my own educational purposes. Visit [coinbase.com](https://coinbase.com) to access real Coinbase website.
